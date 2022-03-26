@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zeniel Sunga
 - 👀 I’m interested in art and programming
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning JS and basic HTML
 - 📫 How to reach me: Email me on pit.of.mud@gmail.com!
 
 <!---
